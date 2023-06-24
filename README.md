@@ -4,6 +4,8 @@
 - Fastapi(python)
 - React(javascript)
 
+![image](https://github.com/GlacingKaos/eb-app-api/assets/23129664/13d2f3d4-8cbc-429c-9a66-14c7011c8eb4)
+
 ## requerimientos
 - Docker(https://www.docker.com/products/docker-desktop/)
 - Docker-compose
